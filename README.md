@@ -35,4 +35,4 @@ OpenAI API
 
 The chatbot depends on the OpenAI API. The API key may expire or run out of credits, so it needs to be updated periodically.
 
-BEMO may occasionally return errors due to API limits, invalid keys, or network issues.
+BEMO may occasionally return errors due to API limits, invalid keys, or network issues. All the code in this project was generated using AI.
