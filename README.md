@@ -1,27 +1,38 @@
 🤖 BEMO — Discord AI Chatbot
 
-BEMO is an AI-powered Discord chatbot designed to provide intelligent conversations, assist users, and automate interactions within Discord servers.
+BEMO is an AI-powered Discord chatbot built using JavaScript. It provides intelligent, human-like responses and helps automate conversations inside Discord servers.
 
 ✨ Features
 
-💬 AI-based conversational responses
+💬 AI-based conversational replies
 
-🤖 Discord bot integration
+🤖 Discord bot integration using discord.js
 
-⚙️ Custom commands support
+⚙️ Command-based interaction
 
 🧠 OpenAI API integration
 
-⚠️ Important Notes
+🧪 Command Usage
+gpt!ask <your message>
 
-BEMO uses the OpenAI API. The API key may expire or run out of credits, so it needs to be updated from time to time.
 
-The chatbot may occasionally return errors due to API limits, network issues, or invalid keys.
+Example:
+
+gpt!ask Hello BEMO
+
+
+This command sends the message to the OpenAI API and returns an AI-generated response in Discord.
 
 🛠️ Tech Stack
 
-Discord.js / Discord.py
+JavaScript (Node.js)
 
-JavaScript or Python
+discord.js
 
 OpenAI API
+
+⚠️ Important Notes
+
+The chatbot depends on the OpenAI API. The API key may expire or run out of credits, so it needs to be updated periodically.
+
+BEMO may occasionally return errors due to API limits, invalid keys, or network issues.
