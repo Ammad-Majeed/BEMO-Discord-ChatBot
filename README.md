@@ -25,7 +25,7 @@ This command sends the message to the OpenAI API and returns an AI-generated res
 
 🛠️ Tech Stack
 
-JavaScript (Node.js)
+JavaScript
 
 discord.js
 
